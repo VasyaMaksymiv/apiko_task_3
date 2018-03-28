@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  text-align: center;
+}
+.more_btn{
+  color: #fff;
+  background: rgb(212,75,56);
+  padding: .7em 1.5em;
+  margin-bottom: 10px;
+  border: none;
+} 
+.more_btn:hover { border: none; background: rgb(232,95,76); }
+.more_btn:active { border: none; background: rgb(152,15,0); }
+
+.listItems {
+  text-align: left;
+  width: 600px;
+  background:rgb(100, 149, 237);
+  margin: 5px auto;
+  border-radius: 7px;
+  margin-top: -5px;
+}
+
+.post_h3{
+  padding: 3px 0 0 10px;
+  font-size: 16px;
+
+}
+.post_p{
+  margin-top: -12px;
+  padding: 0 0 5px 10px;
+  font-size: 12px;
+}
+
